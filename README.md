@@ -1,11 +1,10 @@
+ 
+![orlando](https://github.com/user-attachments/assets/d29ffeb4-2de2-4980-b2df-9125566fdb7e)  
+
 - 👋 Hi, I’m @0RLAND0-GH
 - 👀 I’m interested in Cibersecurity
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on Education
-  
-![orlando](https://github.com/user-attachments/assets/d29ffeb4-2de2-4980-b2df-9125566fdb7e)  
-
-
 
   
 
