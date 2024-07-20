@@ -1,5 +1,6 @@
- 
-![orlando](https://github.com/user-attachments/assets/d29ffeb4-2de2-4980-b2df-9125566fdb7e)  
+       ![ciberseguridad](https://github.com/user-attachments/assets/0af37366-0938-428c-a698-a1423e14d5c4)
+
+
 
 - 👋 Hi, I’m @0RLAND0-GH
 - 👀 I’m interested in Cibersecurity
