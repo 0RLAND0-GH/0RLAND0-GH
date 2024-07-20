@@ -1,4 +1,4 @@
-       ![ciberseguridad](https://github.com/user-attachments/assets/0af37366-0938-428c-a698-a1423e14d5c4)
+![ciberseguridad](https://github.com/user-attachments/assets/a596dc28-fcc0-473d-a14e-709dfd938d6c)
 
 
 
